@@ -1,0 +1,8 @@
+
+---
+
+### `requirements.txt`
+
+```plaintext
+cryptography==41.0.3
+bitstring==4.1.4

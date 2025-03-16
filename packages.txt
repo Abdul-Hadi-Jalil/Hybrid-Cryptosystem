@@ -1,0 +1,7 @@
+Package      Version
+------------ -------
+cffi         1.17.1
+cryptography 44.0.2
+pip          21.2.3
+pycparser    2.22
+setuptools   57.4.0
